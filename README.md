@@ -28,5 +28,6 @@ $sorting = new multiSort();
 $sorting->setDataList($data_list);
 $sorting->setSortList($sort_list);
 $sorting->sort();
-$new_data_list = $sorting->getDataList();?>
+$new_data_list = $sorting->getDataList();
+?>
 ```
