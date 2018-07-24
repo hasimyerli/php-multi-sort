@@ -19,7 +19,7 @@
 - sort: "desc, asc"
 - type: "numeric,string,regular"
 
-**Not:** Buradaki name alanı dizimiz içerisindeki sırala kısıtı olacak indis değeridir.
+**Not:** Buradaki name alanı dizimiz içerisindeki sıralama kısıtı olacak indis değeridir.
 
 ```php
 <?php
