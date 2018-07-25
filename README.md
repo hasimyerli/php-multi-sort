@@ -1,4 +1,4 @@
-### Php Multi Sort / PHP Çoklu Dizi Sorgulama
+### Php Multi Sort / PHP Çoklu Dizi Sıralama
 
 <p>
   <img src="https://hasimyerli.com/projects/images/project-img/mas1.png">
